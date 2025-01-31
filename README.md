@@ -5,8 +5,8 @@ Group Name: __FiFo__.
 Section: __6__. 
 
 Team Mates:
-1. __Adam bin Mohd Shamree__ and __2122843__
-2. __Fill name__ and __matric no__
+1. __ADAM BIN MOHD SHAMREE__ and __2122843__
+2. __MUHAMMAD ZAMRI BIN SUHAIMI__ and __2213125__
 3. __Fill name__ and __matric no__
 
 ## Rules
