@@ -7,7 +7,7 @@ Section: __6__.
 Team Mates:
 1. __ADAM BIN MOHD SHAMREE__ and __2122843__
 2. __MUHAMMAD ZAMRI BIN SUHAIMI__ and __2213125__
-3. __Fill name__ and __matric no__
+
 
 ## Rules
 1. You are allowed to have **3 group** members. *Exception* is allowed **IFF (if and only if)** you are allowed to have 4 group members if you are a **multinational** or a **multigender** group. 
