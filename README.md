@@ -364,8 +364,16 @@ ls gives a simple list of visible files.
 ls -asl provides a detailed view with hidden files, file sizes, and permissions.
 
 15. What is the TLB size of the Virtual CPU. ***(1 mark)*** __2560 entries for 4K pages__.
-16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
-17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __Fill answer here__.
+16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** 
+__Processor 0: 2422.286 MHz (2.42 GHz) Processor 1: 2961.005 MHz (2.96 GHz)__.
+17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** 
+```bash
+PID: 593
+User: codespa+
+CPU Usage: 1.0%
+Memory Usage: 1.1%
+Command: node
+```
 
 ## Running your own container instance.
 
